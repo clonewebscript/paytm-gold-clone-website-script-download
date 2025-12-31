@@ -1,4 +1,4 @@
-# 💰 Paytm Gold Clone Website Script
+# 💰 Paytm Gold Clone Website Script Download
 
 A **Paytm Gold–inspired platform clone** that allows users to explore digital gold buying & selling features with a modern, responsive UI.
 
